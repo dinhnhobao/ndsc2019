@@ -1,5 +1,6 @@
 # ndsc2019
 Submission for National Data Science Challenge 2019
+
 Rank 22/360 (Top 7%), Singapore National Data Science Challenge 2019 Feb 19 – Mar 19
 - Determine the category of a product from its image and title.
 - Mainly used Keras framework to build deep learning models for text classification. Also used
